@@ -1,0 +1,3 @@
+-- Will upload completed database for this semester. At present it lacks back paper integration
+-- New semester id's starting from 1001 - 1004 and new back semester id's starting from 1005-1008 to be used. 
+-- This is because there are no id's in the new system
